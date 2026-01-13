@@ -8,15 +8,6 @@ Currently, I am transitioning my focus towards the modern React ecosystem to bui
 
 ---
 
-### Tech Stack
-
-* **Core:** TypeScript, Node.js, React
-* **Frameworks:** Next.js 16 (App Router), Tailwind CSS
-* **Backend & DB:** PostgreSQL, Prisma ORM, Docker
-* **Quality:** ESLint Strict, CI/CD (GitHub Actions), TDD mindset
-
----
-
 ### Current Focus
 
 I am currently building a **Production-Grade Travel Blog Platform** from scratch.
