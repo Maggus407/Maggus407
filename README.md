@@ -2,7 +2,7 @@
 
 **Fullstack Software Engineer (B.Sc.) | Specializing in Next.js & TypeScript**
 
-I am a developer with a passion for building robust, scalable, and type-safe web applications. With a solid foundation in Computer Science and experience in enterprise environments, I bridge the gap between complex backend logic and beautiful user interfaces.
+I am a developer focused on engineering robust, scalable, and type-safe web applications. With a solid foundation in Computer Science and experience in enterprise environments, I bridge the gap between complex backend logic and beautiful user interfaces.
 
 Currently, I am transitioning my focus towards the modern React ecosystem to build faster, cleaner, and more maintainable software.
 
