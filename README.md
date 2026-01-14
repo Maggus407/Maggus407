@@ -8,14 +8,6 @@ Currently, I am transitioning my focus towards the modern React ecosystem to bui
 
 ---
 
-### Current Focus
-
-I am currently building a **Production-Grade Travel Blog Platform** from scratch.
-* **Goal:** Moving away from legacy CMS (TYPO3/WordPress) to a fully self-hosted Next.js architecture.
-* **Tech:** Next.js 16, Hetzner Cloud (Dockerized), Shadcn/ui, and Auth.js.
-
----
-
 ### Let's Connect
 
 I am open to freelance projects and collaborations starting **Soon**.
