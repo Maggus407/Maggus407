@@ -1,6 +1,6 @@
 ### Hi there, I'm Markus from Germany! 👋
 
-**Fullstack Software Engineer (B.Sc.) | Specializing in Next.js & TypeScript**
+**Fullstack Software Engineer (B.Sc.) | Specializing in Tanstack & TypeScript**
 
 I am a developer focused on engineering robust, scalable, and type-safe web applications. With a solid foundation in Computer Science and experience in enterprise environments.
 
