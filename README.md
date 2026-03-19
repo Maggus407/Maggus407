@@ -6,7 +6,7 @@
 
 ### Let's Connect
 
-I am open to freelance projects and collaborations starting **Soon**.
+I am open to freelance projects and collaborations starting.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/markus-kauschmann-59a97a228/" target="_blank">
